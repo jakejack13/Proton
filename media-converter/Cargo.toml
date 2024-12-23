@@ -8,7 +8,7 @@ edition = "2021"
 description = "Proton media converter"
 
 [dependencies]
-glib = "0.16"
+glib = "0.17"
 gstreamer = "0.19.1"
 
 # the versions are not in sync, the submodules below haven't seen any changes
